@@ -1,6 +1,6 @@
 body {
   font-size: 16px !important;
-  background-color: rgba(37, 211, 102, 50%) !important;
+  background-color: rgba(37, 211, 102, 75%) !important;
 }
 #main-container {
   background-color: white;
@@ -19,12 +19,12 @@ body {
   margin-bottom: 30px;
 }
 #input-phone:focus {
-  border-color: #25D366;
-  box-shadow: 0 0 0 1px #25D366;
+  border-color: #06a641;
+  box-shadow: 0 0 0 1px #06a641;
 }
 #open-whatsapp-btn {
   color: white;
-  background-color: #05c14a;
+  background-color: #06a641;
   outline: none;
   border: none;
   padding: 12px 6px;
